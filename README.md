@@ -32,12 +32,6 @@ Clone the repository and run the script:
 python DataPreprocessing.py
 ```
 
-### Creating an Executable
-To create a standalone application:
-```bash
-pyinstaller --noconsole --onefile --icon=logo.ico --name DataPreprocessing DataPreprocessing.py
-```
-
 ## License
 This software is released under the [MIT License](LICENSE).
 
