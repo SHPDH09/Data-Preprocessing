@@ -18,6 +18,10 @@ Data Preprocessing Automation is a Python-based GUI application designed to stre
 - **Tkinter** (GUI framework)
 - **Pandas** (Data manipulation)
 - **Matplotlib & Seaborn** (Data visualization)
+## Screenshoot
+![Dashboard](https://github.com/user-attachments/assets/32b1ea34-b581-4819-8323-5370b83d6a01)
+![After Dataset Load](https://github.com/user-attachments/assets/4ed4db90-819e-4aaf-a83f-e2f6fc36d1d7)
+
 
 ## Installation
 ### Prerequisites
