@@ -36,7 +36,7 @@ python DataPreprocessing.py
 This software is released under the [MIT License](LICENSE).
 
 ## Contact
-For inquiries, reach out via [LinkedIn](your-linkedin-profile).
+For inquiries, reach out via [LinkedIn](https://www.linkedin.com/in/raunak-kumar-766328248/).
 
 ---
 Let me know if you need modifications! 🚀
